@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="quantumCover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#001f29"/>
+      <stop offset="100%" stop-color="#33c1ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#quantumCover)"/>
+  <rect x="60" y="120" width="280" height="360" fill="rgba(0,0,0,0.3)"/>
+  <text x="80" y="200" fill="#33c1ff" font-family="'Orbitron', sans-serif" font-size="48" letter-spacing="6">QUANTUM</text>
+  <text x="80" y="260" fill="#ffffff" font-family="'Orbitron', sans-serif" font-size="36">DRIFT</text>
+  <text x="80" y="520" fill="#a6ecff" font-family="'Orbitron', sans-serif" font-size="22" letter-spacing="5">ISSUE 12 • OFF-TIME HEIST</text>
+</svg>
+

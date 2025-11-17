@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="sentinelBanner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1b1033"/>
+      <stop offset="100%" stop-color="#ae7bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#sentinelBanner)"/>
+  <text x="140" y="240" fill="#f4efff" font-family="'Poppins', sans-serif" font-size="92" font-weight="700">SENTINEL ACADEMY</text>
+  <text x="140" y="320" fill="#e9ddff" font-family="'Poppins', sans-serif" font-size="44">VIOLET TEAM • SIMULATION HIJACK</text>
+</svg>
+

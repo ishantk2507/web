@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="atlantisCover" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#012a36"/>
+      <stop offset="100%" stop-color="#44c4c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#atlantisCover)"/>
+  <path d="M0 420 Q200 320 400 420 L400 600 L0 600 Z" fill="rgba(255,255,255,0.2)"/>
+  <text x="40" y="150" fill="#b3fbff" font-family="'Gill Sans', sans-serif" font-size="58">ATLANTIS</text>
+  <text x="40" y="215" fill="#ffffff" font-family="'Gill Sans', sans-serif" font-size="40">REIGNITED</text>
+  <text x="40" y="520" fill="#e0ffff" font-family="'Gill Sans', sans-serif" font-size="24" letter-spacing="4">#03 • RISE OF LEVIATHANS</text>
+</svg>
+

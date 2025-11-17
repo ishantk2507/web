@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Browse Comics — ComicVerse Hub</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header"></header>
+    <main>
+      <section>
+        <header>
+          <div>
+            <h1>Browse the Catalog</h1>
+            <p class="meta results-summary">Loading titles…</p>
+          </div>
+          <div class="filter-group" style="max-width: 220px">
+            <label for="sort-comics" class="meta">Sort By</label>
+            <select id="sort-comics">
+              <option value="title">Title A–Z</option>
+              <option value="price-low">Price: Low → High</option>
+              <option value="price-high">Price: High → Low</option>
+              <option value="release-new">Newest Releases</option>
+              <option value="release-old">Oldest Releases</option>
+            </select>
+          </div>
+        </header>
+
+        <div class="browse-layout">
+          <aside class="filter-panel" aria-label="Filter comics">
+            <div class="filter-group">
+              <label class="meta" for="filter-publisher">Publisher</label>
+              <select id="filter-publisher"></select>
+            </div>
+            <div class="filter-group">
+              <label class="meta" for="filter-genre">Genre</label>
+              <select id="filter-genre"></select>
+            </div>
+            <div class="filter-group">
+              <label class="meta" for="filter-character">Character</label>
+              <select id="filter-character"></select>
+            </div>
+          </aside>
+          <div class="browse-grid"></div>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer"></footer>
+
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/utils.js"></script>
+    <script src="assets/js/storage.js"></script>
+    <script src="assets/js/site.js"></script>
+    <script src="assets/js/browse.js"></script>
+  </body>
+</html>
+

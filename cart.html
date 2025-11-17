@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Cart — ComicVerse Hub</title>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header"></header>
+    <main>
+      <section>
+        <header>
+          <div>
+            <h1>Your Cart</h1>
+            <p class="meta">Secure, simulated checkout in seconds</p>
+          </div>
+        </header>
+
+        <div class="cart-page">
+          <div class="cart-panel">
+            <div class="cart-empty">Your cart is currently empty. Start browsing new issues!</div>
+            <div class="cart-items"></div>
+          </div>
+          <aside class="checkout-panel">
+            <h2>Order Summary</h2>
+            <div class="cart-totals">
+              <span>Total</span>
+              <span class="total-value">$0.00</span>
+            </div>
+            <button class="checkout-btn">Checkout</button>
+            <p class="meta checkout-message" hidden></p>
+          </aside>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer"></footer>
+
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/utils.js"></script>
+    <script src="assets/js/storage.js"></script>
+    <script src="assets/js/site.js"></script>
+    <script src="assets/js/cart.js"></script>
+  </body>
+</html>
+

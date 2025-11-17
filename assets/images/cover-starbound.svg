@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="starboundCover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c2d"/>
+      <stop offset="100%" stop-color="#5bebd9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#starboundCover)"/>
+  <circle cx="60" cy="80" r="3" fill="#ffffff"/>
+  <circle cx="320" cy="140" r="2" fill="#ffffff"/>
+  <circle cx="210" cy="60" r="2.5" fill="#ffffff"/>
+  <circle cx="340" cy="300" r="1.8" fill="#ffffff"/>
+  <text x="40" y="160" fill="#a6fff3" font-family="'Futura', sans-serif" font-size="58">STARBOUND</text>
+  <text x="40" y="220" fill="#ffffff" font-family="'Futura', sans-serif" font-size="46">LEGACY</text>
+  <text x="40" y="520" fill="#a6fff3" font-family="'Futura', sans-serif" font-size="24" letter-spacing="6">ISSUE ONE</text>
+</svg>
+

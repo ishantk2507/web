@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="atlantisBanner" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#001a23"/>
+      <stop offset="55%" stop-color="#045f74"/>
+      <stop offset="100%" stop-color="#50e3c2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#atlantisBanner)"/>
+  <path d="M0 360 Q300 240 600 320 T1200 280 L1200 520 L0 520 Z" fill="rgba(255,255,255,0.25)"/>
+  <text x="80" y="220" fill="#c8ffff" font-family="'Gill Sans', sans-serif" font-size="84">ATLANTIS REIGNITED</text>
+  <text x="80" y="300" fill="#ffffff" font-family="'Gill Sans', sans-serif" font-size="44">MERAS VOW · FIRE IN THE TRENCH</text>
+  <text x="80" y="380" fill="#e0ffff" font-family="'Gill Sans', sans-serif" font-size="32" letter-spacing="4">AQUAMAN • MERA • LEVIATHAN PACT</text>
+</svg>
+

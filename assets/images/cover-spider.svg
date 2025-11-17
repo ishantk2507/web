@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="spiderCover" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00111f"/>
+      <stop offset="100%" stop-color="#ba1f33"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#spiderCover)"/>
+  <path d="M40 80 L360 80 L200 520 Z" fill="rgba(255,255,255,0.07)"/>
+  <circle cx="200" cy="280" r="140" stroke="#ff7373" stroke-width="4" fill="none"/>
+  <text x="50" y="130" fill="#ffffff" font-family="Impact, sans-serif" font-size="64" letter-spacing="8">SPIDER</text>
+  <text x="50" y="190" fill="#ffbaba" font-family="Impact, sans-serif" font-size="42">VERSE</text>
+  <text x="50" y="520" fill="#ffffff" font-family="Impact, sans-serif" font-size="24" letter-spacing="4">PULSE • ISSUE 8</text>
+</svg>
+

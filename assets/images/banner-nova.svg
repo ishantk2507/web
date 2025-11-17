@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="novaBanner" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06041f"/>
+      <stop offset="45%" stop-color="#2a2256"/>
+      <stop offset="100%" stop-color="#ff4d6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#novaBanner)"/>
+  <circle cx="920" cy="260" r="210" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="920" cy="260" r="140" fill="rgba(255,255,255,0.1)"/>
+  <text x="80" y="200" fill="#ffffff" font-family="Trebuchet MS, sans-serif" font-size="72" font-weight="700">NOVA NEXUS</text>
+  <text x="80" y="280" fill="#ffd8ec" font-family="Trebuchet MS, sans-serif" font-size="36">THE STARFORCE ORIGIN</text>
+  <text x="80" y="360" fill="#ffffff" font-family="Trebuchet MS, sans-serif" font-size="28" letter-spacing="4">SAM ALEXANDER • WORLD MIND • ISSUE ONE</text>
+</svg>
+

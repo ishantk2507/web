@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="bloomCover" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e0f1f"/>
+      <stop offset="100%" stop-color="#f28dbc"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#bloomCover)"/>
+  <circle cx="200" cy="300" r="150" fill="rgba(255,255,255,0.15)"/>
+  <text x="50" y="150" fill="#fff0f7" font-family="'Playfair Display', serif" font-size="64">MYTHIC</text>
+  <text x="50" y="210" fill="#ffe0ef" font-family="'Playfair Display', serif" font-size="56">BLOOM</text>
+  <text x="50" y="520" fill="#fff0f7" font-family="'Playfair Display', serif" font-size="24" letter-spacing="6">ISSUE FIVE</text>
+</svg>
+

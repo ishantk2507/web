@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="spiderBanner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#02050b"/>
+      <stop offset="50%" stop-color="#1b2235"/>
+      <stop offset="100%" stop-color="#c81d25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#spiderBanner)"/>
+  <path d="M200 60 L1000 60 L600 480 Z" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="950" cy="260" r="160" stroke="#ff8899" stroke-width="6" fill="none"/>
+  <text x="120" y="210" fill="#ffffff" font-family="Impact, sans-serif" font-size="86" letter-spacing="4">SPIDER-VERSE</text>
+  <text x="120" y="300" fill="#ffd7d7" font-family="Impact, sans-serif" font-size="46">PULSE · INTERDIMENSIONAL EDITION</text>
+  <text x="120" y="380" fill="#ffffff" font-family="Impact, sans-serif" font-size="30" letter-spacing="8">MILES • GWEN • VARIANT ECHOES</text>
+</svg>
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="circuitCover" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#ff5f1f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#circuitCover)"/>
+  <rect x="60" y="160" width="280" height="320" fill="rgba(255,255,255,0.05)" stroke="#ff5f1f" stroke-width="4"/>
+  <text x="80" y="200" fill="#ff9f5f" font-family="'Eurostile', sans-serif" font-size="56">IRON</text>
+  <text x="80" y="260" fill="#ffffff" font-family="'Eurostile', sans-serif" font-size="48">CIRCUIT</text>
+  <text x="80" y="520" fill="#ff9f5f" font-family="'Eurostile', sans-serif" font-size="24" letter-spacing="6">#18 • REBEL CODE</text>
+</svg>
+

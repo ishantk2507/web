@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="gothamCover" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c0c0c"/>
+      <stop offset="100%" stop-color="#2f2f2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#gothamCover)"/>
+  <rect x="60" y="160" width="280" height="320" fill="#111" stroke="#fcbf49" stroke-width="4"/>
+  <rect x="80" y="200" width="240" height="40" fill="#fcbf49"/>
+  <rect x="80" y="260" width="240" height="40" fill="#fcbf49"/>
+  <rect x="80" y="320" width="240" height="40" fill="#fcbf49"/>
+  <text x="70" y="120" fill="#fcbf49" font-family="'Agency FB', sans-serif" font-size="64" letter-spacing="8">GOTHAM</text>
+  <text x="70" y="170" fill="#ffffff" font-family="'Agency FB', sans-serif" font-size="36" letter-spacing="6">ECLIPSE</text>
+  <text x="70" y="520" fill="#fcbf49" font-family="'Agency FB', sans-serif" font-size="24" letter-spacing="6">#01 • NOCTURNE RITUAL</text>
+</svg>
+

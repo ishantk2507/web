@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="novaCover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120b46"/>
+      <stop offset="50%" stop-color="#332461"/>
+      <stop offset="100%" stop-color="#ff4d6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#novaCover)"/>
+  <circle cx="200" cy="260" r="130" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="200" cy="260" r="90" fill="rgba(255,255,255,0.2)"/>
+  <text x="40" y="120" fill="#ffffff" font-family="Trebuchet MS, sans-serif" font-size="72" font-weight="700">NOVA</text>
+  <text x="40" y="190" fill="#ffd8ec" font-family="Trebuchet MS, sans-serif" font-size="38" font-weight="600">NEXUS</text>
+  <text x="40" y="520" fill="#ffe7f1" font-family="Trebuchet MS, sans-serif" font-size="24" letter-spacing="6">#01 • COSMIC DAWN</text>
+</svg>
+

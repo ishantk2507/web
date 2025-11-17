@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="starboundBanner" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040619"/>
+      <stop offset="100%" stop-color="#5bebd9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#starboundBanner)"/>
+  <text x="150" y="260" fill="#a6fff3" font-family="'Futura', sans-serif" font-size="110" letter-spacing="12">STARBOUND LEGACY</text>
+  <text x="150" y="340" fill="#ffffff" font-family="'Futura', sans-serif" font-size="44">CAPTAIN PHAROS AND THE COSMIC LIBRARY</text>
+</svg>
+

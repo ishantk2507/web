@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="quantumBanner" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#010d13"/>
+      <stop offset="50%" stop-color="#01394f"/>
+      <stop offset="100%" stop-color="#47d6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#quantumBanner)"/>
+  <text x="120" y="240" fill="#47d6ff" font-family="'Orbitron', sans-serif" font-size="96" letter-spacing="8">QUANTUM DRIFT</text>
+  <text x="120" y="320" fill="#ffffff" font-family="'Orbitron', sans-serif" font-size="44">THE CREW THAT HACKS TOMORROW</text>
+</svg>
+

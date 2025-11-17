@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="sentinelCover" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#201335"/>
+      <stop offset="100%" stop-color="#8c52ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#sentinelCover)"/>
+  <text x="60" y="160" fill="#f4efff" font-family="'Poppins', sans-serif" font-size="52" font-weight="700">SENTINEL</text>
+  <text x="60" y="220" fill="#d1b3ff" font-family="'Poppins', sans-serif" font-size="40">ACADEMY</text>
+  <text x="60" y="520" fill="#f4efff" font-family="'Poppins', sans-serif" font-size="24" letter-spacing="4">CADET FILES #2</text>
+  <circle cx="200" cy="320" r="110" stroke="#f4efff" stroke-width="6" fill="none"/>
+  <circle cx="200" cy="320" r="70" stroke="#e2d3ff" stroke-width="4" fill="none"/>
+</svg>
+

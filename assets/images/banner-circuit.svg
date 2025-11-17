@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="circuitBanner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#040404"/>
+      <stop offset="100%" stop-color="#ff7034"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#circuitBanner)"/>
+  <text x="140" y="260" fill="#ffb28a" font-family="'Eurostile', sans-serif" font-size="120" letter-spacing="10">IRON CIRCUIT</text>
+  <text x="140" y="340" fill="#ffffff" font-family="'Eurostile', sans-serif" font-size="48">CASS BREAKER VS THE FORGE</text>
+</svg>
+
