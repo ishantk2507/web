@@ -1,31 +1,31 @@
 const ComicVerseData = (() => {
   const featuredSlides = [
     {
-      id: 'cv-001',
-      eyebrow: 'New Cosmic Saga',
-      headline: 'Nova Nexus #1',
-      subhead: 'Starforce rookie Sam irradiates the galaxy core in a neon-soaked origin.',
-      cta: 'Explore Issue',
-      accent: '#ff4d6d',
-      art: 'assets/images/cover-nova.svg'
+      id: 'asm-2014-010',
+      eyebrow: 'Spider-Verse Part II',
+      headline: 'The Amazing Spider-Man #10',
+      subhead: 'Superior Spider-Man rallies an army while Peter clashes with destiny.',
+      cta: 'Join the Web',
+      accent: '#e11d48',
+      art: 'assets/images/spidey.jpg'
     },
     {
-      id: 'cv-004',
-      eyebrow: 'Event Spotlight',
-      headline: 'Gotham Eclipse',
-      subhead: 'A solar blackout lets Gotham’s villains rewrite the night shift.',
-      cta: 'Dive Into Darkness',
-      accent: '#fcbf49',
-      art: 'assets/images/cover-gotham.svg'
+      id: 'nova-v4',
+      eyebrow: 'Trade Paperback Pick',
+      headline: 'Nova Vol. 4: Nova Corps',
+      subhead: 'Richard Rider confronts the rebirth of the Corps and the schemes of Worldmind.',
+      cta: 'Go Cosmic',
+      accent: '#fbbf24',
+      art: 'assets/images/novacorps.jpg'
     },
     {
-      id: 'cv-007',
-      eyebrow: 'Indie Darling',
-      headline: 'Mythic Bloom',
-      subhead: 'A botanist unearths a pantheon of floral titans in a dreamy epic.',
-      cta: 'View Details',
-      accent: '#5bebd9',
-      art: 'assets/images/cover-bloom.svg'
+      id: 'absolute-batman-001',
+      eyebrow: 'Dark Knight Essential',
+      headline: 'Absolute Batman #1',
+      subhead: 'Stripped of fortune and allies, Bruce leans on raw grit to own the night.',
+      cta: 'Enter the Shadows',
+      accent: '#fbbf24',
+      art: 'assets/images/imbatman.jpg'
     }
   ];
 
@@ -38,36 +38,68 @@ const ComicVerseData = (() => {
 
   const comics = [
     {
-      id: 'cv-001',
-      title: 'Nova Nexus #1',
+      id: 'asm-2014-010',
+      title: 'The Amazing Spider-Man (2014) #10',
       publisher: 'Marvel',
-      characters: ['Sam Alexander', 'Worldmind'],
-      genre: ['Sci-Fi', 'Adventure'],
-      price: 4.99,
-      releaseDate: '2025-10-02',
+      characters: ['Peter Parker', 'Superior Spider-Man', 'Miles Morales'],
+      genre: ['Superhero', 'Event'],
+      price: 3.99,
+      releaseDate: '2014-11-19',
       synopsis:
-        'Rookie Nova Sam Alexander collides with an interstellar conspiracy that could collapse the Nova Corps from within.',
-      creators: { writer: 'Alana Vega', artist: 'Kade Storm' },
-      coverImage: 'assets/images/cover-nova.svg',
-      bannerImage: 'assets/images/banner-nova.svg',
-      isNew: true,
+        'Spider-Verse Part 2! Superior Spider-Man leads the spider-army against Morlun’s family, but Peter has a serious issue with Otto calling the shots.',
+      creators: { writer: 'Dan Slott', artist: 'Olivier Coipel' },
+      coverImage: 'assets/images/spidey.jpg',
+      bannerImage: 'assets/images/spidey.jpg',
+      isNew: false,
       popularity: 98
     },
     {
-      id: 'cv-002',
-      title: 'Spider-Verse Pulse #8',
+      id: 'nova-v4',
+      title: 'Nova Vol. 4: Nova Corps (TPB)',
       publisher: 'Marvel',
-      characters: ['Miles Morales', 'Spider-Gwen'],
-      genre: ['Action', 'Multiverse'],
-      price: 5.99,
-      releaseDate: '2025-09-12',
+      characters: ['Richard Rider', 'Worldmind'],
+      genre: ['Sci-Fi', 'Cosmic'],
+      price: 19.99,
+      releaseDate: '2009-04-22',
       synopsis:
-        'Miles and Gwen unravel memory echoes left behind by a rogue Spider to save the collapsing Web of Life.',
-      creators: { writer: 'Jared Holt', artist: 'Mei Ito' },
-      coverImage: 'assets/images/cover-spider.svg',
-      bannerImage: 'assets/images/banner-spider.svg',
+        'Collects Nova #19-22. Could it be the return of the Nova Corps? Richard Rider questions Worldmind’s motives as the Corps rises again.',
+      creators: { writer: 'Dan Abnett', artist: 'Wellinton Alves' },
+      coverImage: 'assets/images/novacorps.jpg',
+      bannerImage: 'assets/images/novacorps.jpg',
       isNew: false,
-      popularity: 92
+      popularity: 90
+    },
+    {
+      id: 'absolute-batman-001',
+      title: 'Absolute Batman #1',
+      publisher: 'DC',
+      characters: ['Batman'],
+      genre: ['Crime', 'Superhero'],
+      price: 5.99,
+      releaseDate: '2023-09-06',
+      synopsis:
+        'Without the mansion, money, or Alfred, Bruce Wayne must still be the Absolute Dark Knight and keep Gotham from collapsing.',
+      creators: { writer: 'Scott Snyder', artist: 'Greg Capullo' },
+      coverImage: 'assets/images/imbatman.jpg',
+      bannerImage: 'assets/images/imbatman.jpg',
+      isNew: true,
+      popularity: 94
+    },
+    {
+      id: 'invincible-001',
+      title: 'Invincible #1',
+      publisher: 'Image',
+      characters: ['Mark Grayson', 'Omni-Man', 'Atom Eve'],
+      genre: ['Superhero', 'Coming-of-Age'],
+      price: 2.99,
+      releaseDate: '2003-01-22',
+      synopsis:
+        'Mark Grayson discovers his Viltrumite powers, trains under Omni-Man, and balances teen life with world-saving heroics.',
+      creators: { writer: 'Robert Kirkman', artist: 'Cory Walker' },
+      coverImage: 'assets/images/Invincible.jpg',
+      bannerImage: 'assets/images/Invincible.jpg',
+      isNew: false,
+      popularity: 88
     },
     {
       id: 'cv-003',
@@ -180,6 +212,38 @@ const ComicVerseData = (() => {
       bannerImage: 'assets/images/banner-starbound.svg',
       isNew: true,
       popularity: 88
+    },
+    {
+      id: 'chainsaw-man',
+      title: 'Chainsaw Man Vol. 1',
+      publisher: 'Shueisha',
+      characters: ['Denji', 'Pochita', 'Makima'],
+      genre: ['Dark Fantasy', 'Horror'],
+      price: 9.99,
+      releaseDate: '2018-12-03',
+      synopsis:
+        'Denji dies paying off yakuza debts but is reborn when Pochita fuses with him, letting Chainsaw Man join Public Safety and carve toward his simple dreams.',
+      creators: { writer: 'Tatsuki Fujimoto', artist: 'Tatsuki Fujimoto' },
+      coverImage: 'assets/images/csm.jpg',
+      bannerImage: 'assets/images/csm.jpg',
+      isNew: false,
+      popularity: 95
+    },
+    {
+      id: 'deadlife-001',
+      title: 'Deadlife Season 1',
+      publisher: 'Webtoon',
+      characters: ['Seong-hun'],
+      genre: ['Horror', 'Thriller'],
+      price: 4.99,
+      releaseDate: '2020-05-11',
+      synopsis:
+        'Half-turned and fighting his hunger, Seong-hun navigates a zombie society where the conscious undead clash over survival and love.',
+      creators: { writer: 'Lim Jin-hwan', artist: 'Lim Jin-hwan' },
+      coverImage: 'assets/images/deadlife.jpg',
+      bannerImage: 'assets/images/deadlife.jpg',
+      isNew: true,
+      popularity: 82
     }
   ];
 

@@ -345,10 +345,25 @@ section h2 {
   border: 1px solid var(--surface-soft);
   border-radius: 16px;
   padding: 1.5rem;
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
   gap: 1rem;
   align-items: center;
+}
+
+.list-media {
+  width: 96px;
+  height: 146px;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--surface-soft);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+}
+
+.list-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .chips {
@@ -683,6 +698,15 @@ button {
   .cart-row {
     grid-template-columns: 60px 1fr;
     grid-template-rows: auto auto auto;
+  }
+
+  .list-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .list-media {
+    justify-self: center;
   }
 
   .quantity-controls,

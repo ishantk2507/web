@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="invincibleCover" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d0c488"/>
+      <stop offset="100%" stop-color="#fceaa5"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#invincibleCover)"/>
+  <text x="30" y="120" fill="#1f2933" font-family="'Bebas Neue', sans-serif" font-size="90" letter-spacing="8">INVINCIBLE</text>
+  <text x="30" y="170" fill="#1f2933" font-family="'Space Grotesk', sans-serif" font-size="22">GIRLS • ACNE • HOMEWORK • SUPERVILLAINS</text>
+  <circle cx="200" cy="360" r="140" fill="#1f2632"/>
+  <circle cx="200" cy="360" r="100" fill="#f9d44f"/>
+  <path d="M160 360 L200 300 L240 360 L200 420 Z" fill="#1f2632"/>
+  <text x="40" y="520" fill="#1f2933" font-family="'Space Mono', monospace" font-size="22">KIRKMAN · WALKER · CRABTREE</text>
+</svg>
+

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="novaV4Cover" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050608"/>
+      <stop offset="50%" stop-color="#1f253b"/>
+      <stop offset="100%" stop-color="#e5bb5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#novaV4Cover)"/>
+  <text x="40" y="120" fill="#f7e3b1" font-family="'Space Grotesk', sans-serif" font-size="56" letter-spacing="6">NOVA</text>
+  <text x="40" y="180" fill="#ffffff" font-family="'Space Grotesk', sans-serif" font-size="36">VOL. 4 • CORPS</text>
+  <circle cx="200" cy="330" r="130" stroke="#f1d58a" stroke-width="14" fill="none" opacity="0.65"/>
+  <circle cx="200" cy="330" r="70" fill="rgba(255,255,255,0.15)"/>
+  <path d="M200 220 L260 420 L140 420 Z" fill="rgba(255,255,255,0.2)" />
+  <text x="40" y="520" fill="#fdf3d1" font-family="'Space Mono', monospace" font-size="20">RICHARD RIDER • WORLDMIND • WAR OF LIGHT</text>
+</svg>
+

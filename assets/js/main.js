@@ -116,6 +116,9 @@ const renderPopularSeries = (items) => {
     .map(
       (comic) => `
       <article class="list-card">
+        <div class="list-media">
+          <img src="${comic.coverImage}" alt="${comic.title} cover art" loading="lazy" />
+        </div>
         <div>
           <p class="meta">${comic.publisher}</p>
           <h3>${comic.title}</h3>

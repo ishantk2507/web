@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+  <defs>
+    <linearGradient id="novaV4Banner" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03040a"/>
+      <stop offset="50%" stop-color="#162036"/>
+      <stop offset="100%" stop-color="#f1cf6d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#novaV4Banner)"/>
+  <circle cx="900" cy="250" r="210" fill="rgba(255,255,255,0.1)" stroke="#f6d57a" stroke-width="12" opacity="0.7"/>
+  <text x="100" y="220" fill="#fdf5da" font-family="'Space Grotesk', sans-serif" font-size="80" letter-spacing="8">NOVA CORPS</text>
+  <text x="100" y="300" fill="#ffffff" font-family="'Space Grotesk', sans-serif" font-size="48">VOL. 4 · THE HUMAN ROCKET RETURNS</text>
+  <text x="100" y="360" fill="#f6d57a" font-family="'Space Mono', monospace" font-size="28">RICHARD RIDER · WORLDMIND · COSMIC CORPS</text>
+</svg>
+

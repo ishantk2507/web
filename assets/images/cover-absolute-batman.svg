@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <defs>
+    <linearGradient id="absoluteBatmanCover" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#04070f"/>
+      <stop offset="100%" stop-color="#182027"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="600" fill="url(#absoluteBatmanCover)"/>
+  <rect x="40" y="80" width="320" height="440" fill="rgba(0,0,0,0.4)" stroke="#f4c24d" stroke-width="4" rx="24"/>
+  <text x="60" y="160" fill="#f4c24d" font-family="'Bebas Neue', sans-serif" font-size="70" letter-spacing="6">ABSOLUTE</text>
+  <text x="60" y="230" fill="#ffffff" font-family="'Bebas Neue', sans-serif" font-size="86">BATMAN</text>
+  <rect x="60" y="260" width="280" height="14" fill="#f4c24d"/>
+  <path d="M60 360 C140 320 260 320 340 360" stroke="#f4c24d" stroke-width="6" fill="none"/>
+  <text x="60" y="420" fill="#cbd3dd" font-family="'Space Grotesk', sans-serif" font-size="20">WITHOUT THE MANSION, ONLY THE NIGHT REMAINS</text>
+  <text x="60" y="520" fill="#f4c24d" font-family="'Space Mono', monospace" font-size="20">DC COMICS · ISSUE ONE</text>
+</svg>
+
